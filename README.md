@@ -1,6 +1,8 @@
 # blockchain_task3
 Homework 3 from blockchain course read by Mixbytes
 
+Just pass your API Key as a programm argument
+
 ```
 Processing block 0x328b9549f2e2d08ea85180e81c29d01baacd5f5039728874119cb2b5f3b4b927...
 ETH/USD: 1305.08
